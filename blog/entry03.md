@@ -17,7 +17,8 @@ The technology of using quick [drones as a method of delivery](https://www.wipro
 #### Recovery Plan App
 Last time we researched about current vet technology and we came across an [app that tracked the patient's vitals](https://bionetus.com/vet/veterinary-multi-parameter-monitors/bt-link-veterinary-monitor-mobile-app/) as well as the use of AI to diagnostics mentioned in this [article about AI in veterinary medicine.](https://www.avma.org/news/artificial-intelligence-veterinary-medicine-what-are-ethical-and-legal-implications) I had the idea of combing both functions to create an app that will use the vitals of the patient to map out a recovery plan. The app will constantly read and store the vital signs of the patient to calculate an accurate path of recovery for the animal, any sudden changes will be noted and calculations will also change based on the information. Additionally, if the app detects any dangerous vitals, the doctor and owner will be notified and will request for immediate action.
 
-
+## EDP
+The step after researching is to brainstorm future
 
 
 
