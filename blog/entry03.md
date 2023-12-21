@@ -30,6 +30,8 @@ Content:
 * Intro 
   * Nowadays, technology plays a crucial role in the health of our beloved pets. From little things like making appointments, filing information, to huge machines for X-rays and scans, none of it would be possible without technology. Hence why it is important for vets and pet lovers alike to know about technology which will help play large roles in keeping their little friends safe.
 
+This is how I organized my notes for parts A and B:
+
 Current tech
 
 * Applications
@@ -63,20 +65,19 @@ Possible Future Tech
   * Order can be placed by doctor for patient refill
   * Location tracker for user
   * Fast, electric powered
-* Recovery plan app
-(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTVfYV9jbG9zZV91cF9waG90b193aGl0ZV9zY3JlZW5fb2Zfc21hcnRfcGhvbmVhdF82ZjljYjIzYi02MmMwLTQ4MGItODFiNy0xNGUxNTI5N2EyNTJfMi5qcGc.jpg) img
-User can track and see predicted recovery progress on app
-App uses patient health info, past medical history, ailment, prescribed treatment + duration, to predict patient recovery status
-User can input any changes and app will update recovery plan
-If patient condition does not improve or worsens, vet will be notified by automatic notification system
-Automatic medicine applier
-App to notify and alert on medication times
-Machine to calm animals
-Sensors to detect levels of stress/aggravation
-Helps keep animals and people safe
-Once high levels are reached, the machine will automatically start emitting calming agents
-Ai prosthetic limbs for amputees
-Automatic bath system
+* Recovery plan app ([phone img](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTVfYV9jbG9zZV91cF9waG90b193aGl0ZV9zY3JlZW5fb2Zfc21hcnRfcGhvbmVhdF82ZjljYjIzYi02MmMwLTQ4MGItODFiNy0xNGUxNTI5N2EyNTJfMi5qcGc.jpg))
+  * User can track and see predicted recovery progress on app
+  * App uses patient health info, past medical history, ailment, prescribed treatment + duration, to predict patient recovery status
+  * User can input any changes and app will update recovery plan
+  * If patient condition does not improve or worsens, vet will be notified by automatic notification system
+* Automatic medicine applier
+* App to notify and alert on medication times
+* Machine to calm animals
+  * Sensors to detect levels of stress/aggravation
+  * Helps keep animals and people safe
+  * Once high levels are reached, the machine will automatically start emitting calming agents
+* Ai prosthetic limbs for amputees
+* Automatic bath system
 
 
 
