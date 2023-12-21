@@ -37,36 +37,33 @@ Current tech
     * [The Merck Veterinary Manual](https://www.merckvetmanual.com/): Has A-Z list on diverse animal medical ailments, helps upcoming veterinarians study about animals and diseases
     * [Pet First Aid](https://www.redcross.org/take-a-class/first-aid/cat-dog-first-aid) - Red Cross: Educates pet owners on cat/dog first aid
   * Assistance
-      * Otto: Fast communication between vets and patients, easy scheduling and appointments
-      * BT-LINK MOBILE: keeps track of vitals of pets and recovery process on phone
-  * AI
-Diagnostics
-Increases test accuracy
-Identifies diseases using past patterns
-Recovery
-Makes recovery paths based on progress
-Reads patient’s vitals to create best plans for recovery
-Hardware
-Precise Imaging 
-(https://brookhurstanimal.com/wp-content/uploads/2020/01/Veterinary-Digital-X-Rays-in-Anaheim-CA-1.jpg) img
-MRI scans, X-rays, CT scans, Ultrasounds
-3D Printing 
-https://imageio.forbes.com/specials-images/dam/imageserve/791937151/960x0.jpg?height=474&width=711&fit=bounds (img)
-Custom limbs and supports
-Accurate 3D models of animal anatomy
-Robots (https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/STAR-System-impact-e1643931385591-1.jpg) img
-Surgical: less invasive, more successful
-Rehab: analyzes pet movement and provides tailored physical therapy
+    * [Otto](https://otto.vet/): Fast communication between vets and patients, easy scheduling and appointments
+    * [BT-LINK MOBILE](https://bionetus.com/vet/veterinary-multi-parameter-monitors/bt-link-veterinary-monitor-mobile-app/): keeps track of vitals of pets and recovery process on phone
+* AI
+  * Diagnostics
+    * Increases test accuracy
+    * Identifies diseases using past patterns
+  * Recovery
+    * Makes recovery paths based on progress
+    * Reads patient’s vitals to create best plans for recovery
+* Hardware
+   * Precise Imaging ([cat x-ray img](https://brookhurstanimal.com/wp-content/uploads/2020/01/Veterinary-Digital-X-Rays-in-Anaheim-CA-1.jpg))
+     * MRI scans, X-rays, CT scans, Ultrasounds
+   * 3D Printing ([3D printing img](https://imageio.forbes.com/specials-images/dam/imageserve/791937151/960x0.jpg?height=474&width=711&fit=bounds))
+     * Custom limbs and supports
+     * Accurate 3D models of animal anatomy
+   * Robots ([Surgical robot img](https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/STAR-System-impact-e1643931385591-1.jpg)) 
+     * Surgical: less invasive, more successful
+     * Rehab: analyzes pet movement and provides tailored physical therapy
 
 Possible Future Tech
-My Ideas
-Medication Robot/Drone
-https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-09/package-drone-delivery-companies.png (img)
-Delivers prescribed medicine refill to patient
-Order can be placed by doctor for patient refill
-Location tracker for user
-Fast, electric powered
-Recovery plan app
+
+* Medication Robot/Drone ([delivery drone img](https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-09/package-drone-delivery-companies.png))
+  * Delivers prescribed medicine refill to patient
+  * Order can be placed by doctor for patient refill
+  * Location tracker for user
+  * Fast, electric powered
+* Recovery plan app
 (https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTVfYV9jbG9zZV91cF9waG90b193aGl0ZV9zY3JlZW5fb2Zfc21hcnRfcGhvbmVhdF82ZjljYjIzYi02MmMwLTQ4MGItODFiNy0xNGUxNTI5N2EyNTJfMi5qcGc.jpg) img
 User can track and see predicted recovery progress on app
 App uses patient health info, past medical history, ailment, prescribed treatment + duration, to predict patient recovery status
