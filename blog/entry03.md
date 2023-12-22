@@ -25,11 +25,6 @@ One skills that I used in this experience was my creativity. In order to brainst
 
 Another skill I practiced was organization. After my prior research of existing technology and my brainstorm of future technology, I had to organize my notes into a neater and labeled format. For part A, I organized my technology into 'Applications' 'AI' and 'Hardware' as well as including the websites from where I got the information. 
 
-Content: 
-
-* Intro 
-  * Nowadays, technology plays a crucial role in the health of our beloved pets. From little things like making appointments, filing information, to huge machines for X-rays and scans, none of it would be possible without technology. Hence why it is important for vets and pet lovers alike to know about technology which will help play large roles in keeping their little friends safe.
-
 This is how I organized my notes for parts A and B:
 
 Current tech
@@ -41,7 +36,7 @@ Current tech
   * Assistance
     * [Otto](https://otto.vet/): Fast communication between vets and patients, easy scheduling and appointments
     * [BT-LINK MOBILE](https://bionetus.com/vet/veterinary-multi-parameter-monitors/bt-link-veterinary-monitor-mobile-app/): keeps track of vitals of pets and recovery process on phone
-* AI
+* [AI](https://www.vetport.com/technology-helping-veterinary-medicine)
   * Diagnostics
     * Increases test accuracy
     * Identifies diseases using past patterns
