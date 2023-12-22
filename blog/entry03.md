@@ -79,6 +79,8 @@ Possible Future Tech
 * Ai prosthetic limbs for amputees
 * Automatic bath system
 
+## What's Next?
+Now that I have brainstormed possible technology for the future of veterinary, the next step I will have to start planning the most promising solution.
 
 
 
