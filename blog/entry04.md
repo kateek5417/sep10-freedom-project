@@ -12,6 +12,9 @@ One skill that I practiced while choosing my tool was my collaboration skill bec
 
 Another skill that I used was my skill of embracing failure because the process of tinkering naturally involves a lot of trial and error. As I tinkered, I experimented with the animation codes, testing what I could so and what I couldn't do. As I was still learning how to use the tool, I would type the wrong code in wrong locations or I would forget and combine different classes into one.
 
+## What's next?
+After testing and choosing the tool that I will use in my project I will then start to plan how to implement animate.css into my project to really make it pop. 
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
