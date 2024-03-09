@@ -17,6 +17,8 @@ Tool: **Animate.css**
 * But the `height` property gave me an idea: if the animation is creating a scroll bar because it's overflowing, why don't I just make sure it doesn't overflow in the first place?
 * After using the `width` property and adjusting the size, it turned out that the scroll bar was from the animation exceeding the screen's size, so setting a smaller width to the element solved the issuse. Though I mostly just found a cheaty alternative, I at least some sort of solution to my problem.
 
+3/9/24
+* This whole time I've been animating text elements but I wondered whether I could also animate images.
 * 
 
 <!-- 
