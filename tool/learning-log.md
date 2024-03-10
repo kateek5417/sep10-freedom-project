@@ -19,7 +19,10 @@ Tool: **Animate.css**
 
 3/9/24
 * This whole time I've been animating text elements but I wondered whether I could also animate images.
-* 
+* Applied `animate__animated animate__tada` to give it the "tada" animation and it worked
+* The animation classes and properties works the same say on images as they do on other elements
+
+  
 
 <!-- 
 * Links you used today (websites, videos, etc)
