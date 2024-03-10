@@ -22,6 +22,11 @@ Tool: **Animate.css**
 * Applied `animate__animated animate__tada` to give it the "tada" animation and it worked
 * The animation classes and properties works the same say on images as they do on other elements
 
+3/10/24
+* I wondered what else I could and couldn't animate so I apllied animation classes to a bunch of different elements.
+* The elements I tested out are: `<p>`, `<span>`, `<div>`, `<body>`
+* Of the elements that I tried to animate only `<span>` was not able to be animated
+
   
 
 <!-- 
