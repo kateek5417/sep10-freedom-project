@@ -39,6 +39,12 @@ Tool: **Animate.css**
 * The button animated properly
 * I learned that I could animate Bootstrap components
 
+  3/18/24
+  * There was this constant little voice in the back of head that kept talking about the `overflow` property and how I didn't figure out how to use it so I tried again.
+  * Even though I used my "cheaty" way of preventing scroll bars from appearing during certain animations they still appeared so now I was determined to learn how to properly remove them.
+  * Turns out I just didn't read close enough to the directions because the website says to apply the property to the animated element's _parent_ container, this was just a huge face palm moment.
+  * 
+
   
   
 
