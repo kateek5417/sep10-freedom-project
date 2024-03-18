@@ -27,6 +27,19 @@ Tool: **Animate.css**
 * The elements I tested out are: `<p>`, `<span>`, `<div>`, `<body>`
 * Of the elements that I tried to animate only `<span>` was not able to be animated
 
+3/18/24
+* As we continue to learn more about Bootstrap, I then wondered if I could animate Bootstrap components.
+* i added a button component to my file and attached a `backInUp` entrance to it
+  ```html
+  <div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle animate__animated animate__backInUp" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Dropdown button
+    </button>
+  ```
+* The button animated properly
+* I learned that I could animate Bootstrap components
+
+  
   
 
 <!-- 
