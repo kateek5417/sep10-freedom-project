@@ -71,8 +71,39 @@ Tool: **Animate.css**
 * I tried to google "animate.style animation start when clicked" but the results were things I was unfamiliar with or not what I looking.
 * Most used `javascript` like [this website](https://stackoverflow.com/questions/4847996/css-animation-onclick), or they created animations from scratch using `html` and `css` like [here](https://amp.dev/documentation/guides-and-tutorials/develop/animations/triggering_css_animations) but none of them use the `Animate.style` tool that I am using
 
-3/24/24
-  
+3/29/24
+I practiced using Animate.style by applying it on to my SHABR project.
+* Following the theme of hot air balloons, I decided to have the title text bounce up to the screen with `animate__bounceInUp`
+  ```html
+  <div class="title-text animate__animated animate__bounceInUp">
+    <h1 class="title-font">Skydance Hot Air Balloon Rides</h1>
+    <h2 class="title-font">Ride with the wind Dance with the sky</h2>
+  </div>
+  ```
+    * But applying the animation did something to the position of the text towards the right side of the screen so I used trial and error to adjust the `css` property to return the text back to its location.
+    * It turns out that I just to change the `left: 50%;` to `left:10%;`
+    * ```css
+      .title-text {
+        position: absolute;
+        top: 50%;
+        left: 10%;
+      }
+      ```
+* I thought it would be nice to have the clipart logo in the navbar animated so I applied the `animate__bounce` class
+  ```html
+  <a class="navbar-brand" href="#">
+    <img src="hot-air-balloon-clipart.png" alt="clipart icon" class="navbar-icon animate__animated animate__bounce">
+  </a>
+  ``` 
+* I applied the attention seeker HeartBeat animation on all of the `<h1>` headers to make the beginning of each new section pop out
+  ```html
+  <h1 class="section-header animate__animated animate__heartBeat">Fun for Everyone!</h1>
+  <h1 class="section-header animate__animated animate__heartBeat" id="info">All the information you'll need</h1>
+  <h1 class="section-header animate__animated animate__heartBeat" id="gallery">Gallery</h1>
+  <h1 class="section-header animate__animated animate__heartBeat" id="testimonials">Just a few of our happy customers</h1>
+  <h1 class="section-header animate__animated animate__heartBeat">We'd love to hear from you</h1>
+  ```
+* While adding animations do add more "life" in to the websites, all of the animations load at the beginning when the website loads in so viewers can't see any of the animations that are lower
   
 
 <!-- 
