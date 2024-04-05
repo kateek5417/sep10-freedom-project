@@ -104,6 +104,41 @@ I practiced using Animate.style by applying it on to my SHABR project.
   <h1 class="section-header animate__animated animate__heartBeat">We'd love to hear from you</h1>
   ```
 * While adding animations do add more "life" in to the websites, all of the animations load at the beginning when the website loads in so viewers can't see any of the animations that are lower
+
+4/3-4/24
+* I practiced using a variety of different animations that I haven't used before such as `flash`, `hinge`, `jackInTheBox`, etc.
+  ```html
+  <h2 class="animate__animated animate__hinge">Hinge</h2>
+  <h1 class="animate__animated animate__jackInTheBox">Jack in the box</h1>
+  <h1 class="animate__animated animate__rubberBand">Rubber Band</h1>
+  ```
+* Then I applied different `css` properties to the animated elements
+```css
+.rubberband {
+    overflow: hidden;
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    text-shadow: 5px 5px 5px black;}
+
+.animate__flash {
+    font-size: 100px;
+    animation: flash;
+    animation-duration: 5s;
+    animation-delay: 3s;
+    color: orange;}
+
+.animate__wobble {
+    border: solid;
+    margin left: 25px;
+    margin right: 25px;
+    text-align: center;
+    animate-repeat: 2;
+    color: green;}
+```
+* I practiced using the different animate properties and classes to change how the animation runs
+
+4/5/24
   
 
 <!-- 
