@@ -139,6 +139,39 @@ I practiced using Animate.style by applying it on to my SHABR project.
 * I practiced using the different animate properties and classes to change how the animation runs
 
 4/5/24
+* I praticed applying the animations onto bootstrap tamplates so that I could understand where to apply them and how.
+* The template I chose was Business Frontpage.
+* I wanted to make the webpage more lively so I added transition animations to the different sections
+  * I added a fade down animation on the header
+    ```html
+     <!-- Header-->
+        <header class="bg-dark py-5">
+            <div class="container px-5">
+                <div class="row gx-5 justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="text-center my-5">
+                            <h1 class="display-5 fw-bolder text-white mb-2 animate__animated animate__fadeInDown">Present your business in a whole new way</h1>
+                            <p class="lead text-white-50 mb-4 animate__animated animate__fadeInDown">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+    ```
+  * For the two cards in the testimonials I made it so they entered from ooposite sides
+  ```html
+  <!-- Testimonial 1-->
+                        <div class="card mb-4 animate__animated animate__fadeInLeft">
+                            <div class="card-body p-4">
+                                <div class="d-flex">
+
+  <!-- Testimonial 2-->
+                        <div class="card  animate__animated animate__fadeInRight">
+                            <div class="card-body p-4">
+                                <div class="d-flex">
+  ```
+    * I made it so that the Feature section would enter from the left.
+      ```html
+      <section class="py-5 border-bottom" id="features ">
+            <div class="container px-5 my-5">
+                <div class="row gx-5  animate__animated animate__fadeInLeft">
+      ```
+  * Overall, I think this was nice practice because I'm getting a feel of adding animations to whole pages where I can see how different animations interact with each other rather than seeing an animation on a lone element
   
 
 <!-- 
