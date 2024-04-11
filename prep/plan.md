@@ -11,19 +11,27 @@
   * [Future Technology](https://wireframe.cc/QSnBaS)
 
 ## Colors
-* `#ABC123`
+* Dark blue theme
+* Alternating sections `#dedaed` and `#ebf6f7`
 
 ## Fonts
-* [Text](URL)
+* [Comfortaa]([URL](https://fonts.google.com/specimen/Comfortaa))
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
+* 4/12-14/24 Mobile and Desktop layout and content for Context page
+* 4/16-18/24 Mobile and Desktop layout and content for Current page
+* 4/20-22/24 Mobile and Desktop layout and content for Future page
+* 4/24-26/24 Add Bootstrap components
 
 ---
 
 #### Beyond MVP
 
-* Task
+* CSS
+ * Background color
+ * Font
+* Animations
+* 
