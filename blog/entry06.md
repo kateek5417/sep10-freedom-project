@@ -27,7 +27,39 @@ Then to have a dark background opacity for the title I once again used the help 
 ```
 
 ## Main Content
-In my Present page 
+In my Present page I put all of the different technologies into their own separate [bootstrap accordians](https://getbootstrap.com/docs/5.3/components/accordion/) to organize them better. For example:
+```html
+    <div class="accordion" id="accordionPanelsStayOpenExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-          target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
+                The Merck veterinary Manual
+            </button>
+        </div>
+    </div>
+<!--content-->
+    <div class="accordion" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-          target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                    The Merck veterinary Manual
+                </button>
+            </div>
+    </div>
+<!--content-->
+```
+In my Future page, I used [bootstrap's list group](https://getbootstrap.com/docs/5.3/components/list-group/) to organize the functions of the inventions. For example:
+```html
+<h4>Functions</h4>
+                <ul class="list-group">
+                    <li class="list-group-item">The drones would use GPS to navigate between locations more efficiently by selecting the fastest and safest routes while also avoiding any obstacles, this also allows for farther distances.</li>
+                    <li class="list-group-item">To avoid the risk of running out of power mid deliver, the drones will be powered by eco-friendly solar panels.</li>
+                    <li class="list-group-item">There will an app where users connect with vets to order prescribed drugs from pharmacies to avoid the trouble of pick ups. Refills can also ordered after consulting with the vet.</li>
+                    <li class="list-group-item">Users will be able to track their delivery with quick on-the-spot GPS tracking on both the drone and their package.</li>
+                </ul>
+```
+## Navigational Cards
+At the bottom of every page I put two of [bootstrap's cards](https://getbootstrap.com/docs/5.3/components/card/) so that the user could use them to navigate to either other two pages of the website.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
