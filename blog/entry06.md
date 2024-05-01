@@ -27,7 +27,7 @@ Then to have a dark background opacity for the title I once again used the help 
 ```
 
 ## Main Content
-In my Present page I put all of the different technologies into their own separate [bootstrap accordians](https://getbootstrap.com/docs/5.3/components/accordion/) to organize them better. For example:
+In my Present page I wrote about the different types of veterinary technology that we currently have and them into their separate [bootstrap accordians](https://getbootstrap.com/docs/5.3/components/accordion/) to organize them better without having them taking up too much space. For example:
 ```html
     <div class="accordion" id="accordionPanelsStayOpenExample">
         <div class="accordion-item">
@@ -48,7 +48,7 @@ In my Present page I put all of the different technologies into their own separa
     </div>
 <!--content-->
 ```
-In my Future page, I used [bootstrap's list group](https://getbootstrap.com/docs/5.3/components/list-group/) to organize the functions of the inventions. For example:
+In my Future page I wrote about the possible future tech for veterinary we could have and I used [bootstrap's list group](https://getbootstrap.com/docs/5.3/components/list-group/) to list the functions of the inventions. For example:
 ```html
 <h4>Functions</h4>
                 <ul class="list-group">
@@ -59,7 +59,37 @@ In my Future page, I used [bootstrap's list group](https://getbootstrap.com/docs
                 </ul>
 ```
 ## Navigational Cards
-At the bottom of every page I put two of [bootstrap's cards](https://getbootstrap.com/docs/5.3/components/card/) so that the user could use them to navigate to either other two pages of the website.
+At the bottom of every page I put two of [bootstrap's cards](https://getbootstrap.com/docs/5.3/components/card/) so that the user could use them to navigate to either other two pages of the website. They are also used to add a little bit more style to the pages. 
+``` html
+<div class="container">
+            <div class="row">
+                <div class="col col-lg-6 col-sm-12">
+                    <div class="card" style="width: 30rem;">
+                        <img src="img/card/life-saving-hospital-equipment.jpg" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">The Present</h5>
+                            <p class="card-text">Get to know some of the modern technology in medicine.</p>
+                            <a href="present.html" class="btn btn-primary">Continue</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-lg-6 col-sm-12">
+                    <div class="card" style="width: 30rem;">
+                        <img src="img/card/future-tech-card.webp" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">The Future</h5>
+                            <p class="card-text">Take a peek in to my imagination of the future of veterinary technology.</p>
+                            <a href="future.html" class="btn btn-primary">Continue</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+```
+
+## Challenge
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
