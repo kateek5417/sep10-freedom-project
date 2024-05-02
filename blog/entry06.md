@@ -89,7 +89,7 @@ At the bottom of every page I put two of [bootstrap's cards](https://getbootstra
 ```
 
 ## Challenge
-
+A challenge I had while making my MVP was with the shape of my title background opacity. For my title text I used the background text opacity css from w3schools to make my title pop out from the dark background image and the background stretches from one side of the screen to the other. I liked how it looked in a small screen size but I didn't like how thin and stretched out it was for the large screen format so I wanted to change it so that the shape of the opacity would change based on the screen size.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
