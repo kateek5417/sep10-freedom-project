@@ -89,7 +89,28 @@ At the bottom of every page I put two of [bootstrap's cards](https://getbootstra
 ```
 
 ## Challenge
-A challenge I had while making my MVP was with the shape of my title background opacity. For my title text I used the background text opacity css from w3schools to make my title pop out from the dark background image and the background stretches from one side of the screen to the other. I liked how it looked in a small screen size but I didn't like how thin and stretched out it was for the large screen format so I wanted to change it so that the shape of the opacity would change based on the screen size.
+A challenge I had while making my MVP was with the shape of my title background opacity. For my title text I used the background text opacity css from w3schools to make my title pop out from the dark background image and the background stretches from one side of the screen to the other. I didn't like how thin and stretched out the background opactiy was for larger screens but I wanted to keep it as it was for smaller screen sizes. They way I coded the background opacity was with a `background` and `padding` property on a class on parent `<div>` that contained the title texts.
+``` css
+.text-background {
+    background: rgb(0, 0, 0, 0.5);
+    padding: 30px;
+}
+```
+So then I tried messing around with the padding, height, and width, but I coldn't figure out how to make it so that the `css` would only be applied to a certain screen size.
+That was when I remembered the use of media queries and their function of applying certain `css` for specific sizes. To refresh my knowledge of media queries I looked back at my notes and [RWD Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) at w3schools.
+It took some trial and error to get the size requirements right and when I did I wrote the `css` I wanted for medium screen sizes and smaller.
+```css
+@media (max-width: 992px) {
+    .text-background {
+        padding: 30px;
+        width: 100%
+    }
+}
+```
+
+
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
