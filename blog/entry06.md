@@ -25,6 +25,9 @@ Then to have a dark background opacity for the title I once again used the help 
     padding: 30px;
 }
 ```
+End result:
+![test img](../img/blog-header-img.png)
+
 
 ## Main Content
 In my Present page I wrote about the different types of veterinary technology that we currently have and them into their separate [bootstrap accordians](https://getbootstrap.com/docs/5.3/components/accordion/) to organize them better without having them taking up too much space. For example:
@@ -48,6 +51,9 @@ In my Present page I wrote about the different types of veterinary technology th
     </div>
 <!--content-->
 ```
+
+![test img](../img/blog-present-accordian.png)
+
 In my Future page I wrote about the possible future tech for veterinary we could have and I used [bootstrap's list group](https://getbootstrap.com/docs/5.3/components/list-group/) to list the functions of the inventions. For example:
 ```html
 <h4>Functions</h4>
@@ -58,6 +64,8 @@ In my Future page I wrote about the possible future tech for veterinary we could
                     <li class="list-group-item">Users will be able to track their delivery with quick on-the-spot GPS tracking on both the drone and their package.</li>
                 </ul>
 ```
+![test img](../img/blog-future-function-lists.png)
+
 ## Navigational Cards
 At the bottom of every page I put two of [bootstrap's cards](https://getbootstrap.com/docs/5.3/components/card/) so that the user could use them to navigate to either other two pages of the website. They are also used to add a little bit more style to the pages. 
 ``` html
@@ -88,6 +96,9 @@ At the bottom of every page I put two of [bootstrap's cards](https://getbootstra
         </div>
 ```
 
+![test img](../img/blog-nav-cards.png)
+
+
 ## Challenge
 A challenge I had while making my MVP was with the shape of my title background opacity. For my title text I used the background text opacity css from w3schools to make my title pop out from the dark background image and the background stretches from one side of the screen to the other. I didn't like how thin and stretched out the background opactiy was for larger screens but I wanted to keep it as it was for smaller screen sizes. They way I coded the background opacity was with a `background` and `padding` property on a class on parent `<div>` that contained the title texts.
 ``` css
@@ -107,8 +118,11 @@ It took some trial and error to get the size requirements right and when I did I
     }
 }
 ```
+For screen sizes large and bigger:  
+![test img](../img/header-opacity-large.png)
 
-
+For screen sizes medium and smaller:  
+![test img](../img/header-opacity-medium.png)
 
 
 
