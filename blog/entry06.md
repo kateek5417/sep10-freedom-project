@@ -124,7 +124,13 @@ For screen sizes large and bigger:
 For screen sizes medium and smaller:  
 ![test img](../img/header-opacity-medium.png)
 
+## Engineering Design Process
+I am currently in the creating step of the engineering design process as I made the bare necessities of the website. The next step will to continue to make my website by moving from the MVP to  styling it with `css` and arranging the content into columns. 
 
+## Skills 
+I skill that I used while building my MVP is problem decomposition where I broke down the steps of creating the website. Instead of being caught up in trying to maximize everything at once, I focused on adding the main content and information in one area at a time. When I finished with one area I moved onto the next and easily worked through what I had to do without confusion. For example, I first focused on the content of my Home page, then the Present, and finally the Future page before adding and linking the navigational cards. I slowly paced myself as to not rush and irrationally panick myself.
+
+Another skill I used was how to google because sometimes when coding I would need to refresh my memory on a certain function or sometimes to gain inspiration. Like when I needed a refresher on media queries I googled "how to use css media queries" and the top few links were able to provide what I needed.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
