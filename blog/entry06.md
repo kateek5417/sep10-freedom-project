@@ -132,6 +132,9 @@ I skill that I used while building my MVP is problem decomposition where I broke
 
 Another skill I used was how to google because sometimes when coding I would need to refresh my memory on a certain function or sometimes to gain inspiration. Like when I needed a refresher on media queries I googled "how to use css media queries" and the top few links were able to provide what I needed.
 
+## What's Next
+My next step is to add onto my MVP with `style.css`, `animate.css`, and to touch up on more things to make the pages visually appealing. 
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
