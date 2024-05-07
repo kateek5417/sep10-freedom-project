@@ -34,4 +34,11 @@
  * Background color
  * Font
 * Animations
-* 
+
+#### Changes
+
+- [ ] Add content img for future and present pages
+- [ ] Sturucture content (responsive columns)
+- [ ] Add animations
+- [ ] Add background colors
+- [ ] Add fonts
