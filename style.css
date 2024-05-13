@@ -37,7 +37,14 @@
     width: 1000px;
 }
 
+.container {
+    padding:10px;
+}
 
+.section-header {
+    text-align: center;
+    padding: 5px;
+}
 
 
 
