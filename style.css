@@ -56,5 +56,7 @@ p {
     font-size: 25px;
 }
 
-
+.card-text, .card-title{
+    color: black;
+}
 
