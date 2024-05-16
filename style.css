@@ -6,10 +6,19 @@
 }
 
 
+.bg-body-tertiary {
+    background-color:  !important;
+}
+
+
+.nav-link {
+    color:#;
+}
+
 .navbar {
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 .title-img {
@@ -18,6 +27,7 @@
 
 .titlepage {
     position: relative;
+    z-index: 1;
 }
 
 .text-background {
@@ -33,24 +43,19 @@
     color: #f1f1f1;
 }
 
-.carousel-img {
-    width: 1000px;
-}
-
-.container {
+.container, .col {
     padding:10px;
 }
 
 .section-header {
     text-align: center;
-    padding: 5px;
+    padding: 10px;
 }
 
 body {
     background-color: #061536;
     color: #e3eafa;
 }
-
 
 p {
     font-size: 25px;
