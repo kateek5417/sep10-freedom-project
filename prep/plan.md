@@ -34,4 +34,27 @@
  * Background color
  * Font
 * Animations
-* 
+
+#### Changes
+
+- [ ] Add content img for future and present pages
+- [ ] Sturucture content (responsive columns)
+- [ ] Add animations
+- [ ] Add background colors
+- [ ] Add fonts
+
+#### Presentation plan
+
+Hook: Introduce the idea that most pet owners probably don't know of the technology that is used to help their pets 
+
+Product: Briefly summarize the three pages and their main content
+
+Process: 
+- Show the wireframe plan for one of the pages
+- code snippets of MVP (header, accordions, etc)
+- Challenge with the header text opacity
+
+Conclusion: 
+- Briefly recount the different modern tech and the possible future
+- Spreading more awareness of vet tech can help pet parents and doctors continue to provide medical care for pets
+- URL to link
