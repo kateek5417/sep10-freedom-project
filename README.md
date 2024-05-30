@@ -10,9 +10,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Ani
 
 ## Links
 
-[Product]()
+[Product](https://kateek5417.github.io/sep10-freedom-project/home.html)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1DOrQf3p5Tkkz8Hucx-OojMeWQbeRanMvFQ3HaxmGvmY/edit#slide=id.p)
 
 ## Implications
 ##### PROS
