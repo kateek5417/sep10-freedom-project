@@ -14,7 +14,13 @@ A challenge I had while presenting in-class and during the Expo was my anxiety a
 Overall, this entire project had been a great experience for me, not just academically but it also helps me prepare for the real world after I graduate. The experience of creating my own work, then presenting it to crowds of people will help me get accustomed to the feeling of presenting and speaking to people in the future. It also helps me work on my public speaking abilities and allows me to reflect back onto what I need to improve for the future.
 
 ### Engineering Design Process
-Currently in the Engineering Design Process, I am at the point where I communicate my project
+Currently in the Engineering Design Process, I am at the final point where I am communicating my project through presentations in class and expos. With this my project process will be completely finished.
+
+### Skills
+One skill that I used while presenting is communication. While presenting, I had to communicate about my website either through quick pitches and my presentation slides. I also had to do so in a way that is precise with information but doesn't drag on too long so that it gets really boring. 
+
+Another skill I practiced while creating my presentations was my attention to detail because I had to pay attention to what information I had to add to my presentation and my pitch to properly convey the purpose and process of my website. I also had to pay attention to how much I should and shouldn't mention in my presentation, what information is important and what information is just drag.
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
