@@ -16,9 +16,10 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Ani
 
 ## Implications
 ##### PROS
-* 
+* The website can help spread awareness of available veterinary technology people can use to keep their pets healthy
+* I was able to use the knowledge throughout the course of this year to practice as I made my website myself
 ##### CONS
-* 
+* My website does not go into full depth about each current technology mentioned so users may not get full information about them 
 
 
 ## Blog
@@ -31,6 +32,4 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
+
