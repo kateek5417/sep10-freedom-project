@@ -16,10 +16,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Ani
 
 ## Implications
 ##### PROS
-* The website can help spread awareness of available veterinary technology people can use to keep their pets healthy
-* I was able to use the knowledge throughout the course of this year to practice as I made my website myself
+* The website can help introduce more people into the world of veternary medicine and broaden their personal interests.
+* Those who gain an interest in veterinary medicine might decide to pursue it in the future, whether a doctor or a developer who focuses on the veterinary practice.
+* Having more people be aware of the available veterinary technology might encourage people to further develope and advance the medical technology, benefitting not only veterinary medicine but other medical practices as well.
+* The more people are informed about the available vet tech, the less likely they are to waste money on expensive gimmmick scams
+
 ##### CONS
-* My website does not go into full depth about each current technology mentioned so users may not get full information about them 
+* If people who viewed the website decided to pursue veterinary medicine and attend vet school, it would be extremely expensive and challenging as tuition costs alone could range between $80,000 and $285,000
 
 
 ## Blog
